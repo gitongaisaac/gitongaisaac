@@ -1,4 +1,4 @@
-# Gitonga Isaac
+# Isaac G.
 
 I’m a software engineer focused on building **robust systems**, **performance-aware frontends**, and **clean backend architectures**.
 
@@ -39,7 +39,7 @@ I care deeply about *how things work* — from UI rendering and animation pipeli
 
 **Databases**
 - PostgreSQL
-- MySQL (past experience)
+- MySQL
 
 **Tooling & Infra**
 - Vite
@@ -67,13 +67,13 @@ I care deeply about *how things work* — from UI rendering and animation pipeli
 - **Marketing Agency Website** – scroll-based storytelling and brand-focused motion systems  
 
 More details live here:  
-👉 **https://gitongaisaac.com**
+👉 **https://isaacgitonga.com**
 
 ---
 
 ## Contact
 
-- Portfolio: **https://gitongaisaac.com**
+- Portfolio: **https://isaacgitonga.com**
 - GitHub: **https://github.com/gitongaisaac**
 
 ---
