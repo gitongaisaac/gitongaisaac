@@ -1,85 +1,58 @@
-# Isaac G.
+# Isaac Gitonga
 
-I’m a software engineer focused on building **robust systems**, **performance-aware frontends**, and **clean backend architectures**.
+Principal Architect. I design and build software systems where data correctness, security, and transaction integrity are non-negotiable. My focus is on database transaction boundaries, concurrency protection, and structural isolation—engineering platforms to withstand stress without compromising data state.
 
-I care deeply about *how things work* — from UI rendering and animation pipelines, down to data modeling, system boundaries, and execution trade-offs. My work sits at the intersection of **engineering discipline**, **clarity of design**, and **long-term maintainability**.
+I care deeply about *how things work* — from UI rendering and animation pipelines, down to data modeling, system boundaries, and execution trade-offs. 
 
 ---
 
 ## What I Work On
 
-- **System design & architecture**
-  - Backend-for-Frontend (BFF) patterns
-  - Domain-driven design and layered architectures
-  - Repository & Unit of Work patterns
-- **Web engineering**
-  - Performance-first frontends
-  - Scroll-driven and interaction-based storytelling
-  - Framework-agnostic architecture when it makes sense
-- **Data & infrastructure**
-  - PostgreSQL (including JSONB-heavy designs)
-  - Type-safe data layers
-  - Pragmatic DevOps and deployment workflows
-
----
-
-## Tech Stack
-
-**Frontend**
-- TypeScript
-- HTML5 / CSS
-- Tailwind CSS
-- GSAP (ScrollTrigger, timelines, motion systems)
-
-**Backend**
-- Node.js
-- Express
-- Next.js (App Router, BFF architecture)
-- Prisma ORM
-
-**Databases**
-- PostgreSQL
-- MySQL
-
-**Tooling & Infra**
-- Vite
-- ESBuild
-- Vercel
-- Git / GitHub
-- Linux (Ubuntu)
-
----
-
-## Philosophy
-
-- Architecture is not about overengineering — it’s about **making change cheap**
-- Performance is a feature, not an afterthought
-- Motion should **serve clarity**, not decoration
-- Strong abstractions earn their keep over time
-- Understand fundamentals first, then scale complexity deliberately
+*   **System Design & Architecture**
+    *   Backend-for-Frontend (BFF) patterns
+    *   Domain-driven design and decoupled, layered architectures
+    *   Repository patterns for transaction safety
+*   **Web Engineering**
+    *   Data-heavy UI and dashboard architecture
+    *   Scroll-driven and interaction-based storytelling
+*   **Data & Infrastructure**
+    *   PostgreSQL (relational database modeling and indexing strategies)
+    *   Type-safe data access layers
+    *   Pragmatic deployment workflows and Linux infrastructure
 
 ---
 
 ## Selected Work
 
-- **Personal Portfolio** – performance-focused, animation-driven static site  
-- **Government Services Platform** – multi-agency workflows, PostgreSQL + JSONB, BFF architecture  
-- **Marketing Agency Website** – scroll-based storytelling and brand-focused motion systems  
+*   **SaaS Ticketing Platform** – High-concurrency event transactions, pessimistic locking boundaries, multi-tenant RBAC, and database-level inventory safety.
+*   **Government Services Platform** – Multi-agency workflows, PostgreSQL database models, and BFF architecture.
+*   **Developer Portfolio** – Performance-focused, animation-driven motion systems.
 
-More details live here:  
-👉 **https://isaacgitonga.com**
+Detailed case studies and system breakdowns live here:  
+👉 **[isaacgitonga.com](https://isaacgitonga.com)**
 
 ---
 
-## Contact
+## Core Stack
 
-- Portfolio: **https://isaacgitonga.com**
-- GitHub: **https://github.com/gitongaisaac**
+*   **Backend & Orchestration**: Node.js, Express, Next.js (App Router), TSyringe, Prisma ORM
+*   **Databases**: PostgreSQL, MySQL, Redis
+*   **Frontend**: TypeScript, React, Tailwind CSS, GSAP (ScrollTrigger & Motion Timelines)
+*   **Infrastructure & Tooling**: Neon, Cloudflare (object storage), Netlify, Vercel, Linux, Git
+
+---
+
+## Philosophy
+
+*   Architecture is not about overengineering — it’s about **making change cheap**.
+*   Performance is a feature, not an afterthought.
+*   Motion should **serve clarity**, not decoration.
+*   Strong abstractions must earn their keep over time.
+*   Understand fundamentals first, then scale complexity deliberately.
 
 ---
 
 *I use GitHub to ship real systems, explore architectural ideas, and refine engineering judgment — not just to collect stars.*
-
 
 <!--
 **gitongaisaac/gitongaisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
